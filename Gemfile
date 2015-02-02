@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'annotate'
 gem 'acts_as_votable', '~> 0.10.0'
 gem 'bootstrap-sass'
 gem 'devise'
